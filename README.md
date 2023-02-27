@@ -1,6 +1,6 @@
 # The Green Knight
-Developed in Unity
-In a fantastical world, a small frog warrior known as the Green Knight must travel on a perilous quest, hoping to redeem himself after being banished over a terrible mistake.
+Developed in Unity\n\n
+\nIn a fantastical world, a small frog warrior known as the Green Knight must travel on a perilous quest, hoping to redeem himself after being banished over a terrible mistake.
 Single-Player PvE Experience
 Players control the Green Knight, going through small, isolated areas where they fight enemies, solve puzzles, and accomplish other tasks to progress to the next level.
 Isometric camera rotates around cube-like worlds, allowing players to look from different angles and find secrets & routes.
